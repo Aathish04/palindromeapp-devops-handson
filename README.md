@@ -29,5 +29,29 @@ Once you've installed Java, the next piece of software you will need is:
     - Follow the Instructions [here](https://www.jetbrains.com/help/idea/github.html) to set up GitHub Integration with IntelliJ Idea.
 
 
-5. Clone/Download this repository to your computer and open it up using the IntelliJ IDE.
+5. Clone/Download this repository to your computer.
 
+6. Azure Setup
+    - Set up your Microsoft Azure Student account - https://azure.microsoft.com/en-in/free/students
+
+
+## Project Creation 
+
+1. Navigate to https://start.spring.io. This service pulls in all the dependencies you need for an application and does most of the setup for you.
+
+Choose Maven and Java. 
+
+Click Dependencies and select Spring Web.
+
+Click Generate.
+
+Download the resulting ZIP file, which is an archive of a web application that is configured with your choices.
+
+![image](https://github.com/Aathish04/palindromeapp-devops-handson/assets/33193764/80535673-ed3f-46c7-b555-626fa1b4a115)
+
+
+2. Create a GitHub Repository for the project to be developed. Clone the said repository onto your local system using the "git clone name_of_repository" command.
+
+3. Extract the contents of the ZIP file downloaded to the cloned repository.
+
+4. Now youre ready to start working on the project!
